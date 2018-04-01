@@ -1,1 +1,2 @@
 # GetWebDataByHttpWebRequest
+使用HttpWebRequest_HttpWebResponse获取网页数据
